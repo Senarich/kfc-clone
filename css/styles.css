@@ -1,0 +1,49 @@
+.nav-content a {
+  color: rgb(255, 255, 255);
+  font-weight: 800;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif,
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-left: 15;
+}
+
+.nav-content .dropdown-menu a {
+  color: black;
+}
+
+.phone img {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+   margin-left: 15;
+}
+.tel-num a {
+  text-decoration: none;
+  font-size: 25px;
+  margin-right: 200px;
+}
+.logo {
+  width: 300px;
+  height: 70px;
+  margin: 5px;
+}
+.footer-logo {
+  width: 100px;
+  height: 100px;
+  padding: 10;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.find-kfc {
+  font-size: 25px;
+  color: red;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI";
+  font-weight: 800px;
+  height: 50px;
+}
+
+.find-kfc:hover {
+  background-color: white;
+  color: black;
+}

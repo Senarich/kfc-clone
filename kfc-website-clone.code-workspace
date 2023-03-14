@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../../CODETRAIN/CLASS EXERCISE/calculater UI design"
+	},
+	{
+		"path": "../new project"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "kfc-website-clone"
+  }
+}
